@@ -1,0 +1,21 @@
+20 20
+####################
+#xxxxxxKx#Cxxxxxxxx#
+#xxPxxxxxxExxxxxxxx#
+#xxxxx#xxxxxx#xxxxx#
+#xxxxx#xxxxxx#xxxxx#
+#xxxxx#xxxxxx#xxxxx#
+#xxxxx#xxxxxx#xxxxx#
+#xxxxx#xxxxxx#xxxxx#
+#xxxxx#xxxxxxxxxxxx#
+#xxxxxxxxxxxx#xxxx##
+##xxxx#xxxxxxxxxxxx#
+#xxxxxxxxxxxx#xxxxx#
+#xxxxx#xxxxxx#xxxxx#
+#xxxxx#xxxxxx#xxxxx#
+#xxxxx#xxxxxx#xxxxx#
+#xxxxx#xxxxxx#xxxxx#
+#xxxxx#xxxxxx#xxxxx#
+#xxxxxxxxxxxxxxxxxx#
+#xxxxxxxx##xxxxxxxx#
+####################

@@ -1,0 +1,9 @@
+8 8
+########
+#PEE#xx#
+#KCx#xx#
+#####xx#
+#xxxxxx#
+#xxxxxx#
+#xxxxxx#
+########

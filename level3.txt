@@ -1,0 +1,11 @@
+10 22
+######################
+#E#xxxxxxxxxxxxxxxxxx#
+###xxxCCCCxxxxxCCxxxx#
+#PxxxCxxxxCxxxCxxCxxx#
+#xxxxCxxxxxxxCxxxxCxx#
+#xxxxCxxCCCxxCCCCCCxx#
+#xxxxCxxxxCxxCxxxxCxx#
+#xxxxxCCCCxxxCxxxxCxx#
+#xxxxxxxxxxxxxxxxxxxx#
+######################
